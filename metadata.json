@@ -1,6 +1,6 @@
 {
-  "name": "EduSphere AI Academy",
-  "description": "An interactive, full-stack multilingual educational platform (Uzbek, Russian, English) for smart AI courses (Mathematics, Algebra, English, Computer Literacy, Robotics) from 0% (beginner) to 100% (expert). Includes personalized AI curricula, an interactive simulator, code playground, auto-graded quizzes, virtual certificates, a simulated Telegram bot, and an active community forum.",
+  "name": "AI Interior Design Consultant",
+  "description": "An interactive room makeover app. Upload a photo of your space, view reimagined styles, drag the compare slider, and chat with an AI design expert to refine your space and get shoppable item recommendations.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
